@@ -3,9 +3,9 @@
 # Quotrium
 <meta name="devOp_Quotrium" content="Mark up and revisioning theory">
 <head>
-  <title><h1>Versions and document revision - SOW</h1></title>
+    <h2>Versions and document revision - SOW</h2>
 <body>
-<h2>Contents:</h2>
+<h4>Contents:</h4>
 <p><ol>
   Mark-up and Draft document status
   Revisioning methods
