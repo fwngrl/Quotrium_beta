@@ -7,11 +7,11 @@
 <body>
 <h4>Contents:</h4>
 <p><ol>
-  <li>Mark-up and Draft document status</li>
-  <li>Revisioning methods</li>
-  <li>Embedded versioning</li>
-  <li>Block and in-line document revisions</li>
-  <li>Content re-use</li> 
+  <li>Mark-up and Draft document status.</li>
+  <li>Revisioning methods.</li>
+  <li>Embedded versioning.</li>
+  <li>Block and in-line document revisions.</li>
+  <li>Content re-use.</li> 
     </ol></p>
-  </body>
+ </body>
 </head>
