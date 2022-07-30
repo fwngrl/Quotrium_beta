@@ -3,7 +3,7 @@
 # Quotrium
 <meta name="devOp_Quotrium" content="Mark up and revisioning theory">
 <head>
-<title>Versions and document revision - SOW</title>
+  <title><h1>Versions and document revision - SOW</h1></title>
 <body>
 <h2>Contents:</h2>
 <p><ol>
